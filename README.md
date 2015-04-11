@@ -12,9 +12,13 @@ electric power consumption Data Set."
 
 ## Running the Scripts and Viewing Figures
 
+Download "household_power_consumption.txt" using the above link as well as the four .R
+scripts, all of which are located in this repo. Be sure to change your current directory 
+to your working directory first before running each script. Run each script by running 
+the source() function in R.
 
-The four scripts can be run by sourcing each individual .R file in R. 
-Alternatively, the created .png files for each script can also be found in this repo.
+Alternatively, the created .png files for each script can also be found in this repo and
+viewed directly.
 
 
 
